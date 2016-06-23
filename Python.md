@@ -96,7 +96,7 @@ Use the single quote character `'` rather than double quotes `"` for small, symb
 LIGHT_MESSAGES = {
     'English': "There are %(number_of_lights)s lights.",
     'Pirate':  "Arr! Thar be %(number_of_lights)s lights."
-    }
+}
 
 def lights_message(language, number_of_lights):
     """Return a language-appropriate string reporting the light count."""
