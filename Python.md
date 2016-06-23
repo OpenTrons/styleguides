@@ -28,7 +28,7 @@ Line up the closing brace / bracket / parenthesis on multi-line constructs under
 my_list = [
     1, 2, 3,
     4, 5, 6,
-    ]
+]
 ```
 
 ## Tabs or Spaces?
