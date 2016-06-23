@@ -1,6 +1,6 @@
 # Style Guides
 
-This repository contains style guides for all languages used on Amplify Technologies projects.
+This repository contains style guides for all languages used on OpenTrons projects.
 
 ## Why?
 
